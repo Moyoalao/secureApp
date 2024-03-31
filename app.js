@@ -1,6 +1,9 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const sqlite3 = require('sqlite3').verbose();
+const bcrypt = require('bcrypt');
+const saltRounds=10;
+const sanitizeHtml =require('sanitize-html');
 const app = express();
 const port = 8001;
 
@@ -72,15 +75,17 @@ app.get('/register', (req, res) => {
   
   app.post('/register', (req, res) => {
     const { username, password } = req.body;
-    // Insecure: Storing passwords in plain text
-    const query = `INSERT INTO users (username, password) VALUES ('${username}', '${password}')`;
-    db.run(query, function(err) {
-      if (err) {
-        return console.error(err.message);
-      }
-      res.send("Registered successfully!");
+    bcrypt.hash(password, saltRounds, function(err, hash) {
+        // Secure: Storing hashed passwords
+        const query = `INSERT INTO users (username, password) VALUES (?, ?)`;
+        db.run(query, [username, hash], function(err) {
+            if (err) {
+                return console.error(err.message);
+            }
+            res.send("Registered successfully!");
+        });
     });
-  });
+});
 
   //Login
   app.get('/login', (req, res) => {
@@ -97,21 +102,27 @@ app.get('/register', (req, res) => {
     `);
   });
   
-  app.post('/login', (req, res) => {
+app.post('/login', (req, res) => {
     const { username, password } = req.body;
-    // Insecure: SQL injection
-    const query = `SELECT * FROM users WHERE username = '${username}' AND password = '${password}'`;
-    db.get(query, (err, row) => {
-      if (err) {
-        return console.error(err.message);
-      }
-      if (row) {
-        res.send("Login in successfully!");
-      } else {
-        res.send("Login failed.");
-      }
+    const query = `SELECT password FROM users WHERE username = ?`;
+    db.get(query, [username], (err, row) => {
+        if (err) {
+            return console.error(err.message);
+        }
+        if (row) {
+            // secure: Password
+            bcrypt.compare(password, row.password, function(err, result) {
+                if (result) {
+                    res.send("Logged in successfully!");
+                } else {
+                    res.send("Login failed.");
+                }
+            });
+        } else {
+            res.send("Login failed.");
+        }
     });
-  });
+});
 
   //post
 app.get('/new-post', (req, res) => {
@@ -128,9 +139,15 @@ app.get('/new-post', (req, res) => {
 });
 
 app.post('/new-post', (req, res) => {
-    const { content } = req.body; 
+    const { content } = req.body;
+    //secure: stopped xss
+    const sanitizeContent = sanitizeHtml(content, {
+        allowedTags: sanitizeHtml.defaults.allowedTags.concat(['img','h1','h2']),
+        allowedAttributes: false,
+
+    });
     const query = `INSERT INTO posts (content) VALUES (?)`;
-    db.run(query, [content], function(err) {
+    db.run(query, [sanitizeContent], function(err) {
         if (err) {
             return console.error(err.message);
         }
