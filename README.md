@@ -1,4 +1,4 @@
-# Blog Application
+# Blog Application(insecure)
 
 This repository contains a web application for a blogging platform that allows users to register, login, and post content. This README outlines how to set up the application, install dependencies, and switch between the secure and insecure versions of the application.
 
