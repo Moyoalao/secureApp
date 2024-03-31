@@ -25,3 +25,8 @@ This repository contains a web application for a blogging platform that allows u
 3. **Start the application**
 
     node app.js
+
+4. **Navigate Here**
+
+http://localhost:8001/
+
