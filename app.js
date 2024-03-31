@@ -44,8 +44,9 @@ app.listen(port, () => {
 //home
 app.get('/', (req, res) => {
   res.send(`
-  <h1 style="text-align:center; color: #333;">Blog</h1>
-  
+  <html lang="en">
+  <h1 style="text-align:center; color: #333;" >Blog</h1>
+  <title>Home page</title>
   <nav style="background-color: #f8f9fa; padding: 10px; box-shadow: 0 2px 4px rgba(0,0,0,.1);">
       <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
           <li style="float: left;"><a href="/register" style="display: block; color: black; text-align: center; padding: 14px 16px; text-decoration: none;">Register</a></li>
@@ -54,7 +55,7 @@ app.get('/', (req, res) => {
           <li style="float: left;"><a href="/posts" style="display: block; color: black; text-align: center; padding: 14px 16px; text-decoration: none;">View Post</a></li>
       </ul>
   </nav>
-
+ </html>
   `);
 });
 
