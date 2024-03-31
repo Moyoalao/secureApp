@@ -6,6 +6,8 @@ const saltRounds=10;
 const sanitizeHtml =require('sanitize-html');
 const app = express();
 const port = 8001;
+const log = require('./log')
+const helmet = require('helmet')
 
 
 
@@ -24,7 +26,18 @@ let db = new sqlite3.Database('./database.sqlite', (err) => {
 db.run('CREATE TABLE IF NOT EXISTS users(id INTEGER PRIMARY KEY, username TEXT, password TEXT)');
 db.run('CREATE TABLE IF NOT EXISTS posts(id INTEGER PRIMARY KEY, content TEXT ,FOREIGN KEY(userID) REFERENCES users(id))');
 
+app.use(helmet());
 app.use(bodyParser.urlencoded({ extended: true }));
+
+app.use(helmet.contentSecurityPolicy({
+  directives:{
+    defaultSrc: ["'self'"],
+    scriptSrc: ["'self'", "'unsafe-line'"],
+    objectSrc: ["'none'"],
+    upgradeInsecureRequests: [],
+  }
+}));
+app.use(helmet.xssFilter());
 
 process.on('exit', () => {
   db.close((err) => {
@@ -81,9 +94,13 @@ app.get('/register', (req, res) => {
         const query = `INSERT INTO users (username, password) VALUES (?, ?)`;
         db.run(query, [username, hash], function(err) {
             if (err) {
+                log.error(`Error Registering the user ${username}: ${err.message}`);
                 return console.error(err.message);
             }
+
+            log.info(`New user ${username}`)
             res.send("Registered successfully!");
+
         });
     });
 });
@@ -108,13 +125,16 @@ app.post('/login', (req, res) => {
     const query = `SELECT password FROM users WHERE username = ?`;
     db.get(query, [username], (err, row) => {
         if (err) {
-            return console.error(err.message);
+          log.error('Attempted Login failed');
+          return console.error(err.message);
+            
         }
         if (row) {
             // secure: Password
             bcrypt.compare(password, row.password, function(err, result) {
                 if (result) {
                     res.send("Logged in successfully!");
+                    log.info(`login attempt from: ${req.body.username}`);
                 } else {
                     res.send("Login failed.");
                 }
@@ -150,8 +170,11 @@ app.post('/new-post', (req, res) => {
     const query = `INSERT INTO posts (content) VALUES (?)`;
     db.run(query, [sanitizeContent], function(err) {
         if (err) {
-            return console.error(err.message);
+          log.error(`Error with post : ${err.message}`);
+          return console.error(err.message);
         }
+
+        log.info(`New post created`)
         res.redirect('/posts');
     });
 });

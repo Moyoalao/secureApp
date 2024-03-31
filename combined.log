@@ -1,0 +1,942 @@
+{"level":"info","message":"New user me","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New user c:/Windows/system.ini","service":"user-service"}
+{"level":"info","message":"login attempt from: c:/Windows/system.ini","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New user ../../../../../../../../../../../../../../../../Windows/system.ini","service":"user-service"}
+{"level":"info","message":"login attempt from: ../../../../../../../../../../../../../../../../Windows/system.ini","service":"user-service"}
+{"level":"info","message":"login attempt from: c:\\Windows\\system.ini","service":"user-service"}
+{"level":"info","message":"New user c:\\Windows\\system.ini","service":"user-service"}
+{"level":"info","message":"login attempt from: ..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Windows\\system.ini","service":"user-service"}
+{"level":"info","message":"New user ..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Windows\\system.ini","service":"user-service"}
+{"level":"info","message":"login attempt from: /etc/passwd","service":"user-service"}
+{"level":"info","message":"New user /etc/passwd","service":"user-service"}
+{"level":"info","message":"login attempt from: ../../../../../../../../../../../../../../../../etc/passwd","service":"user-service"}
+{"level":"info","message":"New user ../../../../../../../../../../../../../../../../etc/passwd","service":"user-service"}
+{"level":"info","message":"login attempt from: c:/","service":"user-service"}
+{"level":"info","message":"New user c:/","service":"user-service"}
+{"level":"info","message":"login attempt from: /","service":"user-service"}
+{"level":"info","message":"New user /","service":"user-service"}
+{"level":"info","message":"login attempt from: c:\\","service":"user-service"}
+{"level":"info","message":"New user c:\\","service":"user-service"}
+{"level":"info","message":"login attempt from: ../../../../../../../../../../../../../../../../","service":"user-service"}
+{"level":"info","message":"New user ../../../../../../../../../../../../../../../../","service":"user-service"}
+{"level":"info","message":"login attempt from: WEB-INF/web.xml","service":"user-service"}
+{"level":"info","message":"New user WEB-INF/web.xml","service":"user-service"}
+{"level":"info","message":"login attempt from: WEB-INF\\web.xml","service":"user-service"}
+{"level":"info","message":"New user WEB-INF\\web.xml","service":"user-service"}
+{"level":"info","message":"login attempt from: /WEB-INF/web.xml","service":"user-service"}
+{"level":"info","message":"New user /WEB-INF/web.xml","service":"user-service"}
+{"level":"info","message":"login attempt from: \\WEB-INF\\web.xml","service":"user-service"}
+{"level":"info","message":"New user \\WEB-INF\\web.xml","service":"user-service"}
+{"level":"info","message":"login attempt from: thishouldnotexistandhopefullyitwillnot","service":"user-service"}
+{"level":"info","message":"New user thishouldnotexistandhopefullyitwillnot","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: http://www.google.com/","service":"user-service"}
+{"level":"info","message":"New user http://www.google.com/","service":"user-service"}
+{"level":"info","message":"login attempt from: http://www.google.com:80/","service":"user-service"}
+{"level":"info","message":"New user http://www.google.com:80/","service":"user-service"}
+{"level":"info","message":"login attempt from: http://www.google.com","service":"user-service"}
+{"level":"info","message":"New user http://www.google.com","service":"user-service"}
+{"level":"info","message":"login attempt from: http://www.google.com/search?q=ZAP","service":"user-service"}
+{"level":"info","message":"New user http://www.google.com/search?q=ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: http://www.google.com:80/search?q=ZAP","service":"user-service"}
+{"level":"info","message":"New user http://www.google.com:80/search?q=ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: www.google.com/","service":"user-service"}
+{"level":"info","message":"New user www.google.com/","service":"user-service"}
+{"level":"info","message":"login attempt from: www.google.com:80/","service":"user-service"}
+{"level":"info","message":"New user www.google.com:80/","service":"user-service"}
+{"level":"info","message":"login attempt from: www.google.com","service":"user-service"}
+{"level":"info","message":"New user www.google.com","service":"user-service"}
+{"level":"info","message":"login attempt from: www.google.com/search?q=ZAP","service":"user-service"}
+{"level":"info","message":"New user www.google.com/search?q=ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: www.google.com:80/search?q=ZAP","service":"user-service"}
+{"level":"info","message":"New user www.google.com:80/search?q=ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New user undefined","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New user undefined","service":"user-service"}
+{"level":"info","message":"New user undefined","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New user undefined","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: 6036277153759342760.owasp.org","service":"user-service"}
+{"level":"info","message":"New user 6036277153759342760.owasp.org","service":"user-service"}
+{"level":"info","message":"login attempt from: http://6036277153759342760.owasp.org","service":"user-service"}
+{"level":"info","message":"New user http://6036277153759342760.owasp.org","service":"user-service"}
+{"level":"info","message":"login attempt from: https://6036277153759342760.owasp.org","service":"user-service"}
+{"level":"info","message":"New user https://6036277153759342760.owasp.org","service":"user-service"}
+{"level":"info","message":"login attempt from: https://6036277153759342760%2eowasp%2eorg","service":"user-service"}
+{"level":"info","message":"New user https://6036277153759342760%2eowasp%2eorg","service":"user-service"}
+{"level":"info","message":"login attempt from: 5;URL='https://6036277153759342760.owasp.org'","service":"user-service"}
+{"level":"info","message":"New user 5;URL='https://6036277153759342760.owasp.org'","service":"user-service"}
+{"level":"info","message":"login attempt from: URL='http://6036277153759342760.owasp.org'","service":"user-service"}
+{"level":"info","message":"New user URL='http://6036277153759342760.owasp.org'","service":"user-service"}
+{"level":"info","message":"login attempt from: http://\\6036277153759342760.owasp.org","service":"user-service"}
+{"level":"info","message":"New user http://\\6036277153759342760.owasp.org","service":"user-service"}
+{"level":"info","message":"login attempt from: https://\\6036277153759342760.owasp.org","service":"user-service"}
+{"level":"info","message":"New user https://\\6036277153759342760.owasp.org","service":"user-service"}
+{"level":"info","message":"login attempt from: //6036277153759342760.owasp.org","service":"user-service"}
+{"level":"info","message":"New user //6036277153759342760.owasp.org","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: <!--#EXEC cmd=\"ls /\"-->","service":"user-service"}
+{"level":"info","message":"New user <!--#EXEC cmd=\"ls /\"-->","service":"user-service"}
+{"level":"info","message":"login attempt from: \"><!--#EXEC cmd=\"ls /\"--><","service":"user-service"}
+{"level":"info","message":"New user \"><!--#EXEC cmd=\"ls /\"--><","service":"user-service"}
+{"level":"info","message":"login attempt from: <!--#EXEC cmd=\"dir \\\"-->","service":"user-service"}
+{"level":"info","message":"New user <!--#EXEC cmd=\"dir \\\"-->","service":"user-service"}
+{"level":"info","message":"login attempt from: \"><!--#EXEC cmd=\"dir \\\"--><","service":"user-service"}
+{"level":"info","message":"New user \"><!--#EXEC cmd=\"dir \\\"--><","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: 0W45pz4p","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New user 0W45pz4p","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP0W45pz4p","service":"user-service"}
+{"level":"info","message":"New user ZAP0W45pz4p","service":"user-service"}
+{"level":"info","message":"login attempt from: '\"<scrIpt>alert(1);</scRipt>","service":"user-service"}
+{"level":"info","message":"New user '\"<scrIpt>alert(1);</scRipt>","service":"user-service"}
+{"level":"info","message":"login attempt from: '\"\u0000<scrIpt>alert(1);</scRipt>","service":"user-service"}
+{"level":"info","message":"New user '\"\u0000<scrIpt>alert(1);</scRipt>","service":"user-service"}
+{"level":"info","message":"login attempt from: '\"<img src=x onerror=prompt()>","service":"user-service"}
+{"level":"info","message":"New user '\"<img src=x onerror=prompt()>","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New user zApPX7sS","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: '","service":"user-service"}
+{"level":"info","message":"New user '","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP'","service":"user-service"}
+{"level":"info","message":"New user ZAP'","service":"user-service"}
+{"level":"info","message":"login attempt from: \"","service":"user-service"}
+{"level":"info","message":"New user \"","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\"","service":"user-service"}
+{"level":"info","message":"New user ZAP\"","service":"user-service"}
+{"level":"info","message":"login attempt from: ;","service":"user-service"}
+{"level":"info","message":"New user ;","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP;","service":"user-service"}
+{"level":"info","message":"New user ZAP;","service":"user-service"}
+{"level":"info","message":"login attempt from: '(","service":"user-service"}
+{"level":"info","message":"New user '(","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP'(","service":"user-service"}
+{"level":"info","message":"New user ZAP'(","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP AND 1=1 -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP AND 1=1 -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP AND 1=2 -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP AND 1=2 -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP OR 1=1 -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP OR 1=1 -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP AND 1=2 -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP AND 1=2 -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP OR 1=1 -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP OR 1=1 -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP' AND '1'='1' -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP' AND '1'='1' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP' AND '1'='2' -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP' AND '1'='2' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP' OR '1'='1' -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP' OR '1'='1' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP' AND '1'='2' -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP' AND '1'='2' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP' OR '1'='1' -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP' OR '1'='1' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP UNION ALL select NULL -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP UNION ALL select NULL -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP' UNION ALL select NULL -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP' UNION ALL select NULL -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\" UNION ALL select NULL -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP\" UNION ALL select NULL -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP) UNION ALL select NULL -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP) UNION ALL select NULL -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP') UNION ALL select NULL -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP') UNION ALL select NULL -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP / sleep(15) ","service":"user-service"}
+{"level":"info","message":"New user ZAP / sleep(15) ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP' / sleep(15) / '","service":"user-service"}
+{"level":"info","message":"New user ZAP' / sleep(15) / '","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\" / sleep(15) / \"","service":"user-service"}
+{"level":"info","message":"New user ZAP\" / sleep(15) / \"","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP and 0 in (select sleep(15) ) -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP and 0 in (select sleep(15) ) -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP' and 0 in (select sleep(15) ) -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP' and 0 in (select sleep(15) ) -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\" and 0 in (select sleep(15) ) -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP\" and 0 in (select sleep(15) ) -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP where 0 in (select sleep(15) ) -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP where 0 in (select sleep(15) ) -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP' where 0 in (select sleep(15) ) -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP' where 0 in (select sleep(15) ) -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\" where 0 in (select sleep(15) ) -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP\" where 0 in (select sleep(15) ) -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP or 0 in (select sleep(15) ) -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP or 0 in (select sleep(15) ) -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: ; select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' -- ","service":"user-service"}
+{"level":"info","message":"New user ; select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: '; select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' -- ","service":"user-service"}
+{"level":"info","message":"New user '; select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: \"; select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' -- ","service":"user-service"}
+{"level":"info","message":"New user \"; select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ); select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' -- ","service":"user-service"}
+{"level":"info","message":"New user ); select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: \"java.lang.Thread.sleep\"(15000)","service":"user-service"}
+{"level":"info","message":"New user \"java.lang.Thread.sleep\"(15000)","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP / \"java.lang.Thread.sleep\"(15000) ","service":"user-service"}
+{"level":"info","message":"New user ZAP / \"java.lang.Thread.sleep\"(15000) ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP' / \"java.lang.Thread.sleep\"(15000) / '","service":"user-service"}
+{"level":"info","message":"New user ZAP' / \"java.lang.Thread.sleep\"(15000) / '","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\" / \"java.lang.Thread.sleep\"(15000) / \"","service":"user-service"}
+{"level":"info","message":"New user ZAP\" / \"java.lang.Thread.sleep\"(15000) / \"","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP and exists ( select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME') -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP and exists ( select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME') -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP' and exists ( select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME') -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP' and exists ( select \"java.lang.Thread.sleep\"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME') -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual)","service":"user-service"}
+{"level":"info","message":"New user (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual)","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP / (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual) ","service":"user-service"}
+{"level":"info","message":"New user ZAP / (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual) ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP' / (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual) / '","service":"user-service"}
+{"level":"info","message":"New user ZAP' / (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual) / '","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\" / (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual) / \"","service":"user-service"}
+{"level":"info","message":"New user ZAP\" / (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual) / \"","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP and exists (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual) -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP and exists (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual) -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end","service":"user-service"}
+{"level":"info","message":"New user case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end","service":"user-service"}
+{"level":"info","message":"login attempt from: case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end -- ","service":"user-service"}
+{"level":"info","message":"New user case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: 'case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end -- ","service":"user-service"}
+{"level":"info","message":"New user 'case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: \"case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end -- ","service":"user-service"}
+{"level":"info","message":"New user \"case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP / case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end ","service":"user-service"}
+{"level":"info","message":"New user ZAP / case when cast(pg_sleep(15.0) as varchar) > '' then 0 else 1 end ","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: case randomblob(100000) when not null then 1 else 1 end ","service":"user-service"}
+{"level":"info","message":"New user case randomblob(100000) when not null then 1 else 1 end ","service":"user-service"}
+{"level":"info","message":"login attempt from: case randomblob(1000000) when not null then 1 else 1 end ","service":"user-service"}
+{"level":"info","message":"New user case randomblob(1000000) when not null then 1 else 1 end ","service":"user-service"}
+{"level":"info","message":"login attempt from: case randomblob(10000000) when not null then 1 else 1 end ","service":"user-service"}
+{"level":"info","message":"New user uj8p89kexmtssesufbgyuqi2d4ceaokmtxm2rf48lvq8zgarbd0w2rh0o","service":"user-service"}
+{"level":"info","message":"login attempt from: case randomblob(100000000) when not null then 1 else 1 end ","service":"user-service"}
+{"level":"info","message":"New user case randomblob(10000000) when not null then 1 else 1 end ","service":"user-service"}
+{"level":"info","message":"login attempt from: case randomblob(1000000000) when not null then 1 else 1 end ","service":"user-service"}
+{"level":"info","message":"New user case randomblob(100000000) when not null then 1 else 1 end ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user case randomblob(1000000000) when not null then 1 else 1 end ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user 8pge6u8d7z5rj5s1jrpxcieaydl047ez2pva4opbxx2oml5jbzy49047or9t","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP' WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP' WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\" WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP\" WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP) WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP) WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP) ' WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP) ' WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP) \" WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP) \" WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP)) WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP)) WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP)) ' WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP)) ' WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP)) \" WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"New user ZAP)) \" WAITFOR DELAY '0:0:15' -- ","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP) WAITFOR DELAY '0:0:15' (","service":"user-service"}
+{"level":"info","message":"New user ZAP) WAITFOR DELAY '0:0:15' (","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New user undefined","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: \";print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110));$var=\"","service":"user-service"}
+{"level":"info","message":"New user \";print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110));$var=\"","service":"user-service"}
+{"level":"info","message":"login attempt from: ';print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110));$var='","service":"user-service"}
+{"level":"info","message":"New user ';print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110));$var='","service":"user-service"}
+{"level":"info","message":"login attempt from: ${@print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110))}","service":"user-service"}
+{"level":"info","message":"New user ${@print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110))}","service":"user-service"}
+{"level":"info","message":"login attempt from: ${@print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110))}\\","service":"user-service"}
+{"level":"info","message":"New user ${@print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110))}\\","service":"user-service"}
+{"level":"info","message":"login attempt from: ;print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110));","service":"user-service"}
+{"level":"info","message":"New user ;print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110));","service":"user-service"}
+{"level":"info","message":"login attempt from: +response.write({0}*{1})+","service":"user-service"}
+{"level":"info","message":"New user \"+response.write(815,362*901,968)+\"","service":"user-service"}
+{"level":"info","message":"New user +response.write({0}*{1})+","service":"user-service"}
+{"level":"info","message":"New user response.write(815,362*901,968)","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: cat /etc/passwd","service":"user-service"}
+{"level":"info","message":"New user cat /etc/passwd","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP&cat /etc/passwd&","service":"user-service"}
+{"level":"info","message":"New user ZAP&cat /etc/passwd&","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP;cat /etc/passwd;","service":"user-service"}
+{"level":"info","message":"New user ZAP;cat /etc/passwd;","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\"&cat /etc/passwd&\"","service":"user-service"}
+{"level":"info","message":"New user ZAP\"&cat /etc/passwd&\"","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\";cat /etc/passwd;\"","service":"user-service"}
+{"level":"info","message":"New user ZAP\";cat /etc/passwd;\"","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP'&cat /etc/passwd&'","service":"user-service"}
+{"level":"info","message":"New user ZAP'&cat /etc/passwd&'","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP';cat /etc/passwd;'","service":"user-service"}
+{"level":"info","message":"New user ZAP';cat /etc/passwd;'","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP&sleep 15.0&","service":"user-service"}
+{"level":"info","message":"New user ZAP&sleep 15.0&","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP;sleep 15.0;","service":"user-service"}
+{"level":"info","message":"New user ZAP;sleep 15.0;","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\"&sleep 15.0&\"","service":"user-service"}
+{"level":"info","message":"New user ZAP\"&sleep 15.0&\"","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\";sleep 15.0;\"","service":"user-service"}
+{"level":"info","message":"New user ZAP\";sleep 15.0;\"","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP'&sleep 15.0&'","service":"user-service"}
+{"level":"info","message":"New user ZAP'&sleep 15.0&'","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP';sleep 15.0;'","service":"user-service"}
+{"level":"info","message":"New user ZAP';sleep 15.0;'","service":"user-service"}
+{"level":"info","message":"login attempt from: type %SYSTEMROOT%\\win.ini","service":"user-service"}
+{"level":"info","message":"New user type %SYSTEMROOT%\\win.ini","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP&type %SYSTEMROOT%\\win.ini","service":"user-service"}
+{"level":"info","message":"New user ZAP&type %SYSTEMROOT%\\win.ini","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP|type %SYSTEMROOT%\\win.ini","service":"user-service"}
+{"level":"info","message":"New user ZAP|type %SYSTEMROOT%\\win.ini","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\"&type %SYSTEMROOT%\\win.ini&\"","service":"user-service"}
+{"level":"info","message":"New user ZAP\"&type %SYSTEMROOT%\\win.ini&\"","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\"|type %SYSTEMROOT%\\win.ini","service":"user-service"}
+{"level":"info","message":"New user ZAP\"|type %SYSTEMROOT%\\win.ini","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP'&type %SYSTEMROOT%\\win.ini&'","service":"user-service"}
+{"level":"info","message":"New user ZAP'&type %SYSTEMROOT%\\win.ini&'","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP'|type %SYSTEMROOT%\\win.ini","service":"user-service"}
+{"level":"info","message":"New user ZAP'|type %SYSTEMROOT%\\win.ini","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP&timeout /T 15.0","service":"user-service"}
+{"level":"info","message":"New user ZAP&timeout /T 15.0","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP|timeout /T 15.0","service":"user-service"}
+{"level":"info","message":"New user ZAP|timeout /T 15.0","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\"&timeout /T 15.0&\"","service":"user-service"}
+{"level":"info","message":"New user ZAP\"&timeout /T 15.0&\"","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\"|timeout /T 15.0","service":"user-service"}
+{"level":"info","message":"New user ZAP\"|timeout /T 15.0","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP'&timeout /T 15.0&'","service":"user-service"}
+{"level":"info","message":"New user ZAP'&timeout /T 15.0&'","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP'|timeout /T 15.0","service":"user-service"}
+{"level":"info","message":"New user ZAP'|timeout /T 15.0","service":"user-service"}
+{"level":"info","message":"login attempt from: get-help","service":"user-service"}
+{"level":"info","message":"New user get-help","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP;get-help","service":"user-service"}
+{"level":"info","message":"New user ZAP;get-help","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\";get-help","service":"user-service"}
+{"level":"info","message":"New user ZAP\";get-help","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP';get-help","service":"user-service"}
+{"level":"info","message":"New user ZAP';get-help","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP;get-help #","service":"user-service"}
+{"level":"info","message":"New user ZAP;get-help #","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP;start-sleep -s 15.0","service":"user-service"}
+{"level":"info","message":"New user ZAP;start-sleep -s 15.0","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP\";start-sleep -s 15.0","service":"user-service"}
+{"level":"info","message":"New user ZAP\";start-sleep -s 15.0","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP';start-sleep -s 15.0","service":"user-service"}
+{"level":"info","message":"New user ZAP';start-sleep -s 15.0","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP;start-sleep -s 15.0 #","service":"user-service"}
+{"level":"info","message":"New user ZAP;start-sleep -s 15.0 #","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: \"'","service":"user-service"}
+{"level":"info","message":"New user \"'","service":"user-service"}
+{"level":"info","message":"login attempt from: <!--","service":"user-service"}
+{"level":"info","message":"New user <!--","service":"user-service"}
+{"level":"info","message":"login attempt from: ]]>","service":"user-service"}
+{"level":"info","message":"New user ]]>","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New user zj 4057*7364 zj","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New user zj{1792*2457}zj","service":"user-service"}
+{"level":"info","message":"New user zj${4888*7858}zj","service":"user-service"}
+{"level":"info","message":"New user zj#{9499*1434}zj","service":"user-service"}
+{"level":"info","message":"New user zj{#7339*7055}zj","service":"user-service"}
+{"level":"info","message":"New user zj{@6874*3157}zj","service":"user-service"}
+{"level":"info","message":"New user zj{{2775*1127}}zj","service":"user-service"}
+{"level":"info","message":"New user zj{{=3665*3362}}zj","service":"user-service"}
+{"level":"info","message":"New user zj<%=7228*1877%>zj","service":"user-service"}
+{"level":"info","message":"New user zj#set($x=6408*5697)${x}zj","service":"user-service"}
+{"level":"info","message":"New user zj<p th:text=\"${5496*9593}\"></p>zj","service":"user-service"}
+{"level":"info","message":"New user zj{@math key=\"9600\" method=\"multiply\" operand=\"2896\"/}zj","service":"user-service"}
+{"level":"info","message":"New user zj{{27580|add:22910}}zj","service":"user-service"}
+{"level":"info","message":"New user zj{{print \"6659\" \"8195\"}}zj","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: <#assign ex=\"freemarker.template.utility.Execute\"?new()> ${ ex(\"sleep 15\") }","service":"user-service"}
+{"level":"info","message":"New user <#assign ex=\"freemarker.template.utility.Execute\"?new()> ${ ex(\"sleep 15\") }","service":"user-service"}
+{"level":"info","message":"login attempt from: #set($engine=\"\")\n#set($proc=$engine.getClass().forName(\"java.lang.Runtime\").getRuntime().exec(\"sleep 15\"))\n#set($null=$proc.waitFor())\n${null}","service":"user-service"}
+{"level":"info","message":"New user #set($engine=\"\")\n#set($proc=$engine.getClass().forName(\"java.lang.Runtime\").getRuntime().exec(\"sleep 15\"))\n#set($null=$proc.waitFor())\n${null}","service":"user-service"}
+{"level":"info","message":"login attempt from: {{= global.process.mainModule.require('child_process').execSync('sleep 15').toString() }}","service":"user-service"}
+{"level":"info","message":"New user {{= global.process.mainModule.require('child_process').execSync('sleep 15').toString() }}","service":"user-service"}
+{"level":"info","message":"login attempt from: <%= global.process.mainModule.require('child_process').execSync('sleep 15').toString()%>","service":"user-service"}
+{"level":"info","message":"New user <%= global.process.mainModule.require('child_process').execSync('sleep 15').toString()%>","service":"user-service"}
+{"level":"info","message":"login attempt from: #{global.process.mainModule.require('child_process').execSync('sleep 15').toString()}","service":"user-service"}
+{"level":"info","message":"New user #{global.process.mainModule.require('child_process').execSync('sleep 15').toString()}","service":"user-service"}
+{"level":"info","message":"login attempt from: {{range.constructor(\"return eval(\\\"global.process.mainModule.require('child_process').execSync('sleep 15').toString()\\\")\")()}}","service":"user-service"}
+{"level":"info","message":"New user {{range.constructor(\"return eval(\\\"global.process.mainModule.require('child_process').execSync('sleep 15').toString()\\\")\")()}}","service":"user-service"}
+{"level":"info","message":"login attempt from: {{\"\".__class__.__mro__[1].__subclasses__()[157].__repr__.__globals__.get(\"__builtins__\").get(\"__import__\")(\"subprocess\").check_output(\"sleep 15\")}}","service":"user-service"}
+{"level":"info","message":"New user {{\"\".__class__.__mro__[1].__subclasses__()[157].__repr__.__globals__.get(\"__builtins__\").get(\"__import__\")(\"subprocess\").check_output(\"sleep 15\")}}","service":"user-service"}
+{"level":"info","message":"login attempt from: ${__import__(\"subprocess\").check_output(\"sleep 15\", shell=True)}","service":"user-service"}
+{"level":"info","message":"New user ${__import__(\"subprocess\").check_output(\"sleep 15\", shell=True)}","service":"user-service"}
+{"level":"info","message":"login attempt from: {{__import__(\"subprocess\").check_output(\"sleep 15\", shell=True)}}","service":"user-service"}
+{"level":"info","message":"New user {{__import__(\"subprocess\").check_output(\"sleep 15\", shell=True)}}","service":"user-service"}
+{"level":"info","message":"login attempt from: <%=%x(sleep 15)%>","service":"user-service"}
+{"level":"info","message":"New user <%=%x(sleep 15)%>","service":"user-service"}
+{"level":"info","message":"login attempt from: #{%x(sleep 15)}","service":"user-service"}
+{"level":"info","message":"New user #{%x(sleep 15)}","service":"user-service"}
+{"level":"info","message":"login attempt from: {system(\"sleep 15\")}","service":"user-service"}
+{"level":"info","message":"New user {system(\"sleep 15\")}","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New user fCfhLossErWhhytqMlwGWAtnvPpqbbiRGkMIWbVOpujafageyBOCjUUniTnoVSiYcUUkTIclRCwlOwEvVRUcohiPakATVepsYhGVlceFvsOveyZOQWbRhGKYAXGqAlsIgONmOaNoevwQSceSFdHRUVqcUHlbGPetMafqXNULUEwUDJcVTWbfIkXSHPxNBoioHMdwYwYbJhZpdkXEBauIfVZXWIYnAeuobCxmoihUIWaOTGFyRYrhMBDKDhRinuJxJxaiiBcVxyjudVdMqGtGjrjMcHsSxGIdKyNNOBihuXqArSRIjVMuUkPNyXpJbqKKESHAqTygbDtkiYIEboHxFaIcIQNxfePWYogedJZPuUjUsxaRMXEvlyKabBrPyMcOXPruIBlJIlfxrtTSejyrRWqQClMcOwQaCwQSVSOWUmJaPFndYorfhCSgTvvyvaMgPOyNcjGDiSZPWgiEfgVCDQZiyrQqykUWgZrbOiRoGicsvGmABaaSVBbxDjMkCcRKdfPLfUGSFgAepNnuWUeNXVCKarxlWHSbPZmuhkbCVSkbIBcCAEnvnHcgtLZphufgMJPPugXDTwPrxqMJClaxUhgQiOMISFWwxHYkgWuLVQqMdtUiQTQLOqcAhWttYLovRfbUiOUiUgbSNXyyUcASwlOnPKeuqdlwQlhTcygFMjegJWfBVIWPoeVbpkrvxjiFcyroHjYHPmFLpjlJiDGjNErfNaCYHYUnSaUUOfCGkphRxOyHelmsKYfHxhiijysWsbKOtKJWjjkbGqyAtbWLLPoIBgdXfjRbPMvjOXJeHTtFvMgyAessJpItsdoSEEeFeMXJfXmGsHFCoJZinosAHturVfhfBEEflrXhHmhXMxPQLPTIqrftZQqYpEYEotseQOAtYRODCxBiwakMDrMYODJvSfpUZrQqqGorpvBUVZZLhKJhIJuZeTuMsOqdaKlTphjXhlVIvRuwhWLwfoAsXuElYhDbuKxESmBoRJSaoTipBZnaHYmuGbJDgIajNdfmrIehUhgveVHoWpmmUfRSCdiXVCplbciYJsvXOkjEQgTVoxSlUxkTclehDRMHLqyauuMnHHtnpJhXhiDuPLyabrfmkiwERKTmlvOGufMYSjoOteMinlniThDKGXmUYCJHNplbALYXBSuJrWPcmanTRhkxBetycAQkmZkBNaQqicgSTdAQfsgEGsRFtVKewVIZZbFgelxBsyGoWtKpwPagASWUdrhbejXQbvNoRlxBLbyEZFYiWcCRxUwiJxUDfVrSOFDHWKCtQZKAfrGkxiVKApkybIssPYOEgmiloMOPTRbyOnVuLVqQxdWVROsRhnAVsWaJbotfcPoXwWjwKVAeUuuxAWYXRktPrLVYxIwMIWtYgHPjOHchngulCjXgmtqowegmQYrgtBjwhZfAMNNVqDFToUcXRDlpEUfLNnYtkgqRUUTPlkllmBdKlxPTXaOrXwGVWIHckMTwCtDKQBBtsjufKTvDnkBaABZMLAhPiGloTbjSVbvtTExExDIrmghSqYQdjCNdgCPbngZCNxedWELGNaCTeWkSUDFLLdcjZOBjhVxXGcEBhiSkEOuyOgYSGtZuyvWJCtZvheYAJmkIpqessWLekpdYXRuBALXGmLZoeUfOVpPQwPalxgCoArJUuYBuEjNhylDrCRSIVWitNOqPRNkRsUmidXctHKGpgnvceBbGBjjpdODsCnjaBsiDhZclEUnZtSASvjMMRiWEnvHVGYNNKUYyYbNCJFVcueUiFpNCkhuvRafbnjcpacEsDefOITfGfWLsoFZOnFZTKJPNwBsFAwBveTeVjDRoayHqHJxSaxlRZAOXYupxAasissIqBKpCkpSksZdBHDLBalVBZCqwXUZtcpENOyZrPGEJcyRbNNEOKqQxquQZHolJVkrjuwSeWIuJoajPrIShsQdQbCtEHmDixvwwvKUqfMbVBfFqHuVHhFXWABwCXfdIuCrZVgTguHMEKyKcpDAZdJDucRbWLbVAYNnuTErwNbwNbokAMlNRqviepmftTGpDImoEgpRldjDOAeIXsaOEshwUfeQPxKfCLQlowwRtWENurJCKoeoH","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s\n","service":"user-service"}
+{"level":"info","message":"New user ZAP%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s\n","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP %1!s%2!s%3!s%4!s%5!s%6!s%7!s%8!s%9!s%10!s%11!s%12!s%13!s%14!s%15!s%16!s%17!s%18!s%19!s%20!s%21!n%22!n%23!n%24!n%25!n%26!n%27!n%28!n%29!n%30!n%31!n%32!n%33!n%34!n%35!n%36!n%37!n%38!n%39!n%40!n\n","service":"user-service"}
+{"level":"info","message":"New user ZAP %1!s%2!s%3!s%4!s%5!s%6!s%7!s%8!s%9!s%10!s%11!s%12!s%13!s%14!s%15!s%16!s%17!s%18!s%19!s%20!s%21!n%22!n%23!n%24!n%25!n%26!n%27!n%28!n%29!n%30!n%31!n%32!n%33!n%34!n%35!n%36!n%37!n%38!n%39!n%40!n\n","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New user Set-cookie: Tamper=24748f18-fe7c-4930-bc99-37160a6573d1","service":"user-service"}
+{"level":"info","message":"New user any\r\nSet-cookie: Tamper=24748f18-fe7c-4930-bc99-37160a6573d1","service":"user-service"}
+{"level":"info","message":"New user any?\r\nSet-cookie: Tamper=24748f18-fe7c-4930-bc99-37160a6573d1","service":"user-service"}
+{"level":"info","message":"New user any\nSet-cookie: Tamper=24748f18-fe7c-4930-bc99-37160a6573d1","service":"user-service"}
+{"level":"info","message":"New user any?\nSet-cookie: Tamper=24748f18-fe7c-4930-bc99-37160a6573d1","service":"user-service"}
+{"level":"info","message":"New user any\r\nSet-cookie: Tamper=24748f18-fe7c-4930-bc99-37160a6573d1\r\n","service":"user-service"}
+{"level":"info","message":"New user any?\r\nSet-cookie: Tamper=24748f18-fe7c-4930-bc99-37160a6573d1\r\n","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ","service":"user-service"}
+{"level":"info","message":"New user undefined","service":"user-service"}
+{"level":"info","message":"login attempt from: @","service":"user-service"}
+{"level":"info","message":"New user ","service":"user-service"}
+{"level":"info","message":"login attempt from: +","service":"user-service"}
+{"level":"info","message":"New user @","service":"user-service"}
+{"level":"info","message":"login attempt from: \u0000","service":"user-service"}
+{"level":"info","message":"New user +","service":"user-service"}
+{"level":"info","message":"login attempt from: |","service":"user-service"}
+{"level":"info","message":"New user \u0000","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user |","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: <","service":"user-service"}
+{"level":"info","message":"New user <","service":"user-service"}
+{"level":"info","message":"login attempt from: <xsl:value-of select=\"system-property('xsl:vendor')\"/>","service":"user-service"}
+{"level":"info","message":"New user <xsl:value-of select=\"system-property('xsl:vendor')\"/>","service":"user-service"}
+{"level":"info","message":"login attempt from: system-property('xsl:vendor')/>","service":"user-service"}
+{"level":"info","message":"New user system-property('xsl:vendor')/>","service":"user-service"}
+{"level":"info","message":"login attempt from: \"/><xsl:value-of select=\"system-property('xsl:vendor')\"/><!--","service":"user-service"}
+{"level":"info","message":"New user \"/><xsl:value-of select=\"system-property('xsl:vendor')\"/><!--","service":"user-service"}
+{"level":"info","message":"login attempt from: <xsl:value-of select=\"system-property('xsl:vendor')\"/><!--","service":"user-service"}
+{"level":"info","message":"New user <xsl:value-of select=\"system-property('xsl:vendor')\"/><!--","service":"user-service"}
+{"level":"info","message":"login attempt from: <xsl:value-of select=\"document('http://localhost:22')\"/>","service":"user-service"}
+{"level":"info","message":"New user <xsl:value-of select=\"document('http://localhost:22')\"/>","service":"user-service"}
+{"level":"info","message":"login attempt from: <xsl:variable name=\"rtobject\" select=\"runtime:getRuntime()\"/>\n<xsl:variable name=\"process\" select=\"runtime:exec($rtobject,'erroneous_command')\"/>\n<xsl:variable name=\"waiting\" select=\"process:waitFor($process)\"/>\n<xsl:value-of select=\"$process\"/>","service":"user-service"}
+{"level":"info","message":"New user <xsl:variable name=\"rtobject\" select=\"runtime:getRuntime()\"/>\n<xsl:variable name=\"process\" select=\"runtime:exec($rtobject,'erroneous_command')\"/>\n<xsl:variable name=\"waiting\" select=\"process:waitFor($process)\"/>\n<xsl:value-of select=\"$process\"/>","service":"user-service"}
+{"level":"info","message":"login attempt from: <xsl:value-of select=\"php:function('exec','erroneous_command 2>&amp;1')\"/>","service":"user-service"}
+{"level":"info","message":"New user <xsl:value-of select=\"php:function('exec','erroneous_command 2>&amp;1')\"/>","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"New post created","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
+{"level":"info","message":"login attempt from: ZAP","service":"user-service"}
+{"level":"info","message":"New user ZAP","service":"user-service"}
